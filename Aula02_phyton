@@ -1,0 +1,38 @@
+# nome = "maria"
+# idade = 30
+
+# print(" O nome dela é",nome, "e ela tem",idade,"anos", sep=" - ")
+
+# nome = "maria"
+# idade = 30
+
+# print(f"O nome dela é {nome} e ela possui {idade} anos")
+
+# nome = "maria"
+# idade = 30
+
+# print(f"O nome dela é {nome}\ne e ela possui {idade} anos")
+
+# valor = 123.4545
+# print(f"O valor formatado é: {valor:.2f}")
+
+# x = 10
+# print (f"o valor de x é: {x}, e seu tipo é: {type(x)}")
+
+# resultado = x + 10
+# print(f"O valor do resultado é: {resultado}")
+
+# texto = "olá turma!"
+# tamanho = len(texto)
+# print("O tamanho da string é:", tamanho) 
+
+# QUESTÃO 1
+# x = 10
+# y = 2.5
+# soma = x + y
+# subtracao = x - y
+# multiplicacao = x * y
+# divisao = x/y
+# print(soma, subtracao, multiplicacao, divisao)
+
+# QUESTÃO 2
