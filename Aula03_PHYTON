@@ -1,0 +1,58 @@
+# numero = int(input("Digite um número: "))   
+
+# par_e_maior_que_10 = (numero % 2 == 0) and (numero > 10)
+
+# if par_e_maior_que_10:
+#     print("O número é par e maior que 10")
+# else:
+#     print("O número não é par ou não é maior que 10")
+
+
+# resposta = input("digite sim ou não: ").lower()
+
+# resposta_valida = (resposta == "sim") or (resposta == "não")
+
+# if resposta_valida:
+#     print("resposta válida")
+# else:
+#     print("Resposta inválida. Digite sim ou não.")
+
+# idade = int(input("Digite sua idade: "))
+
+# if not (idade >= 18):
+#     print("Você não é maior de idade")
+# else:
+#     print("Você é maior de idade")
+
+# opcoes_validas = ['1','2','3','4']
+# opcao = input("Digite uma opção (1-4): ")
+
+# if opcao in opcoes_validas:
+#     print("Opção válida!")
+# else:
+#     print("opção inválida! digite um número de 1 a 4")    
+
+# letra = input("Digite uma letra: ").lower()
+# vogais = 'aeiou'
+
+# if letra in vogais:
+#     print(f"A letra '{letra}' é uma vogal. ")
+# else:
+#     print(f"A letra '{letra}' é uma consoante.")
+
+#QUESTÃO 1
+# a = 13
+# print(f"o valor de 'a' é: '{a}'")
+
+# b = 2*a
+# print(f"O valor de 'b' é: {b}")
+
+#QUESTÃO 2
+# numero = int(input("Digite um número: "))   
+
+# maior_que_100_e_menor_que_1000 =(numero > 100 and numero < 1000)
+
+# if maior_que_100_e_menor_que_1000:
+#     print("O número é maior que 100 e menor que 1000")
+# else:
+#     print("O número não é maior que 100 e menor que 1000")
